@@ -1,3 +1,4 @@
+<img width="961" alt="Снимок экрана 2023-10-27 в 20 50 48" src="https://github.com/maikwork/post-news-rn/assets/86742832/889fb27b-5245-43aa-9dfb-c398708755d6"> <br />
 # post-news-rn
 Это простое приложения для знакомства с react-native.
 
